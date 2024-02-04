@@ -5,10 +5,10 @@ const Home = () => {
   return (
     <div className={styles.container}>
       <div className={styles.textContainer}>
-        <h1 className={styles.title}>Creative Thoughts Agency.</h1>
+        <h1 className={styles.title}>Social Media Agency.</h1>
         <p className={styles.desc}>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero
-          blanditiis adipisci minima reiciendis a autem assumenda dolore.
+        Boost Your Business with Unmatched Social Media Presence. 
+        Let Us Elevate Your Brand's Voice and Connect You with Your Audience More Effectively.
         </p>
         <div className={styles.buttons}>
           <button className={styles.button}>Learn More</button>
