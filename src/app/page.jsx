@@ -7,8 +7,8 @@ const Home = () => {
       <div className={styles.textContainer}>
         <h1 className={styles.title}>Social Media Agency.</h1>
         <p className={styles.desc}>
-        Boost Your Business with Unmatched Social Media Presence. 
-        Let Us Elevate Your Brand's Voice and Connect You with Your Audience More Effectively.
+        Boost Your Business with Unmatched Social Media Presence.
+        Let Us Elevate Your Brand's Voice and Connect You with Your Audience More Effectively
         </p>
         <div className={styles.buttons}>
           <button className={styles.button}>Learn More</button>
